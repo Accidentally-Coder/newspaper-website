@@ -7,7 +7,7 @@ const Layout = (props) => {
         <div>
             <Header />
             <main style={{
-                minHeight: '2500vh',
+                minHeight: '800vh',
             }}>
                 {props.children}
             </main>
